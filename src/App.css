@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(138, 122, 177);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+}
+
+

@@ -1,0 +1,18 @@
+.todoInput {
+    width: 50%;
+    height: 50px;
+    border:none;
+    font-size: 20px;
+    letter-spacing: 3px;
+    border-bottom: 2px gray solid;
+    margin-right: 5px;
+}
+
+ button {
+    width: 20%;
+    height: 55px;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: burlywood;
+}
